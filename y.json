@@ -9,6 +9,10 @@
     },
     {
         "name": "yakov",
+        "age": 13
+    },
+    {
+        "name": "dani",
         "age": 3
     }
 ]
